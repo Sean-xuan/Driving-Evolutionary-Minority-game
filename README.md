@@ -1,6 +1,6 @@
 # Driving-Evolutionary-Minority-game
 1. To see plots of this part, first run the main pragram, then try code similar to the follows:
-   a = Evolution(2500, 201, 1000, 500)
+   a = Evolution(2500, 201, 1000, 501)
    a.game()
    a.plot()
 2. For newly replaced player, we have 2 steps of strategy change:
